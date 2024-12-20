@@ -1,0 +1,9 @@
+
+Processo de finalização dos dados:
+
+1. Os dados foram carregados a partir da base tratada (ep2_dados_tratados.csv).
+2. Foram realizadas validações com base nas regras estabelecidas pela equipe da Light.
+3. A base final consolidada foi salva no arquivo ep2_base_final.csv.
+
+Limitações encontradas:
+- Nenhuma inconsistência adicional foi identificada durante o processo de validação.

@@ -1,0 +1,4 @@
+Tratamento Realizado:
+- Remoção de duplicatas
+- Correção de formatos nas colunas numéricas
+- Preenchimento de valores faltantes com a média
