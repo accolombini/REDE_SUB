@@ -1,0 +1,4 @@
+ID_Ativo,Data_Inspecao,Condicao,Medicoes,Observacoes
+A001,2024-12-20,Bom,10.5,Sem anomalias.
+A002,2024-12-21,Regular,8.3,Pequenas rachaduras.
+A003,2024-12-22,Ruim,15.2,Substituição recomendada.
